@@ -1,3 +1,6 @@
-﻿<?='Hola Mundo'?>
+<?php 
+echo 'Hola Mundo';
+echo 'Algo mas';
+?>
 
 
